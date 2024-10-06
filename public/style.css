@@ -44,3 +44,17 @@ input[type='text'] {
   width: 220px;
   text-align: center;
 }
+
+.titolo {
+	text-align: center;
+	color: darkmagenta;
+	font-size: 66px;
+	margin-bottom: 20px;
+	margin-top: 40px;
+  padding-top: 60px;
+	white-space: nowrap; 
+  }
+
+  .foot {
+    font-size: 20px;
+  }
